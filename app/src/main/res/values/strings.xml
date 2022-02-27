@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Frame_Layout</string>
+    <string name="app_name">Sample Frame Layout</string>
+    <string name="nim">20180140122</string>
+    <string name="nama">Habib Santoso | Class C</string>
 </resources>
